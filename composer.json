@@ -1,0 +1,15 @@
+{
+    "name": "walide/db_manager",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "src/Classes",
+            "Interfaces\\": "src/Interfaces"
+        },
+        "files": [
+            "src/Helpers/app.helper.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
